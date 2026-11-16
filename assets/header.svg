@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="t d">
+  <title id="t">Ignacio Morales</title>
+  <desc id="d">Programador · IA aplicada. Productos web y móviles con IA. Buenos Aires.</desc>
+  <defs>
+    <radialGradient id="g1" cx="12%" cy="125%" r="55%">
+      <stop offset="0" stop-color="#7c5cff" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#7c5cff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="55%" cy="135%" r="50%">
+      <stop offset="0" stop-color="#5fd4f4" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#5fd4f4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g3" cx="95%" cy="125%" r="45%">
+      <stop offset="0" stop-color="#f2c94c" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#f2c94c" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="340" rx="18" fill="#0c0d0f"/>
+  <rect width="1280" height="340" rx="18" fill="url(#g1)"/>
+  <rect width="1280" height="340" rx="18" fill="url(#g2)"/>
+  <rect width="1280" height="340" rx="18" fill="url(#g3)"/>
+  <g font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="15" letter-spacing="1.5" fill="#b1a296">
+    <text x="56" y="64">IGNACIO MORALES</text>
+    <text x="1224" y="64" text-anchor="end">BUENOS AIRES</text>
+  </g>
+  <line x1="56" y1="86" x2="1224" y2="86" stroke="#ece6df" stroke-opacity="0.12"/>
+  <g font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="15" letter-spacing="1.5" fill="#4fb8a1">
+    <circle cx="61" cy="129" r="4" fill="#4fb8a1"/>
+    <text x="76" y="134">PROGRAMADOR · IA APLICADA · DISPONIBLE PARA PROYECTOS</text>
+  </g>
+  <text x="52" y="236" font-family="'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="900" font-size="96" letter-spacing="-2" fill="#ece6df" textLength="1176" lengthAdjust="spacingAndGlyphs">IGNACIO MORALES</text>
+  <text x="56" y="290" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#ece6df" fill-opacity="0.7">Programo productos web y móviles con IA: asistentes que atienden clientes, modelos que leen fotos y transcriben audio.</text>
+</svg>
